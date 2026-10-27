@@ -5,7 +5,11 @@
 **Software engineering · Cybersecurity · Infrastructure**
 
 <!-- Replace this introduction with your preferred title, target roles, and short bio. -->
-*Lorem ipsum dolor sit amet — a short introduction, current role, and what I want to build next.*
+I'm a Software Engineering student at Brigham Young University–Idaho, specializing in Embedded Systems, with a background in cybersecurity, IT infrastructure, and software development.
+
+My interest in technology started with programming at a young age and has grown into a curiosity about how computers, networks, and software work together. I enjoy exploring systems beyond the surface, whether that means developing applications, investigating security incidents, experimenting with hardware, or building my own infrastructure.
+
+I believe some of the best learning happens through experimentation, troubleshooting, and challenging what I think I know. This GitHub is a collection of that process: projects I've built, problems I've worked through, and ideas I'm continuing to explore.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=flat)](https://www.linkedin.com/in/lucas-mda/)
 [![Email](https://img.shields.io/badge/Email-334155?style=flat&logo=gmail&logoColor=CBD5E1)](mailto:lumoyano10@gmail.com)
